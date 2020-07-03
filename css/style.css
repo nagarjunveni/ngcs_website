@@ -97,6 +97,7 @@ label {
 }
 
 .navbar-default .navbar-brand {
+    margin-top:0.5em;
     color: #272c2f;
 }
 
